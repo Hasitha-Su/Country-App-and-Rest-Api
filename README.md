@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Running the Angular Client Application
 #### Development server
 
-Navigate to extracted to project folder and run `ng serve` for a dev server. Then navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Navigate to extracted to project folder and run `npm install` install the dependencies in the local node_modules folder and then run `ng serve` for a dev server. Then navigate to `http://localhost:4200/`.
 
 ## Technologies and Tools used
 #### Client - Frontend/UI
